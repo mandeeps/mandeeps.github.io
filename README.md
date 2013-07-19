@@ -1,4 +1,1 @@
-mandeep.github.io
-=================
-
-homepage
+setting up a homepage
