@@ -1,1 +1,1 @@
-setting up a homepage
+personal homepage
