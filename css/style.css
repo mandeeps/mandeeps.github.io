@@ -2,6 +2,7 @@
 body {
   padding-top: 20px;
   padding-bottom: 20px;
+  font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
 }
 
 h1 {
@@ -33,6 +34,11 @@ h1 {
   padding-top: 19px;
   color: #777;
   border-top: 1px solid #e5e5e5;
+}
+
+.footer,
+.icons {
+  text-align: center;
 }
 
 /* Custom container */
