@@ -53,7 +53,7 @@ h1 {
 }
 
 span a {
-  padding: 0px 0px 0px 10px;
+  padding: 0px 10px 0px 0px;
 }
 
 @media screen and (min-width: 768px) {
