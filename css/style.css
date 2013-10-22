@@ -1,6 +1,6 @@
 body {
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: /*20px*/4px;
+  padding-bottom: /*20px*/4px;
   font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
 }
 
@@ -23,11 +23,11 @@ h1 {
   margin-top: 0;
   margin-bottom: 0;
   line-height: 40px;
-  padding-bottom: 19px;
+  padding-bottom: /*19px*/2px;
 }
 
 .footer {
-  padding-top: 19px;
+  padding-top: /*19px*/2px;
   color: #777;
   border-top: 1px solid #e5e5e5;
 }
@@ -46,14 +46,14 @@ h1 {
 }
 
 .marketing {
-  margin: 40px 0;
+  margin: /*40px*/10px 0;
 }
 .marketing p + h4 {
   margin-top: 28px;
 }
 
 span a {
-  padding: 0px 10px 0px 0px;
+  padding: 0px 20px 0px 0px;
 }
 
 @media screen and (min-width: 768px) {
@@ -65,6 +65,6 @@ span a {
   }
 
   .header {
-    margin-bottom: 30px;
+    margin-bottom: 10px;
   }
 }
