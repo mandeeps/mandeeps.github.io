@@ -56,6 +56,10 @@ span a {
   padding: 0px 20px 0px 0px;
 }
 
+#demos {
+  display: none;
+}
+
 @media screen and (min-width: 768px) {
   .header,
   .marketing,
